@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+}
+.tudo{
+    width: 99vw;
+    height: 98vh;
+    background-color: black;
+}
+
+#centralPanel{
+    background-color: black;
+    /* margin: 0px 0px 0px 700px; */
+    width: 500px;
+    height: 500px;
+    border: 5px solid white;
+    text-align: center;
+    transform: translate(700px, 200px);
+}
+
+.button{
+    width: 175px;
+    height: 35px;
+    color: black;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: white;
+    margin-left: 150px;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+}
+
+.images1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    transform: translateY(0, -100px);
+}
+
+.images2{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.brannboll img{
+    width: 350px;
+    height: 350px;
+    border: 5px solid orange;
+}
+
+.cartao img{
+    width: 450px;
+    height: 350px;
+    border: 5px solid orange;
+}
+
+.cardapio img{
+    width: 350px;
+    height: 350px;
+    border: 5px solid orange;
+}
+
+.outdoor img{
+    width: 450px;
+    height: 350px;
+
+    border: 5px solid orange;
+}
+
+.macarrao1 img{
+    width: 350px;
+    height: 350px;
+    border: 5px solid orange;
+}
+
+.macarrao2 img{
+    width: 350px;
+    height: 350px;
+    border: 5px solid orange;
+}
+
